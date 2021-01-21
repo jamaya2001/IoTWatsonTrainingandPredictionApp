@@ -1,5 +1,9 @@
 [![Build Status](https://travis-ci.org/IBM/IoTWatsonTrainingandPredictionApp.svg?branch=master)](https://travis-ci.org/IBM/IoTWatsonTrainingandPredictionApp)
 
+## WARNING: This repository is no longer maintained. 
+
+This repository will not be updated. The repository will be kept available in read-only mode.
+
 <h1>Introduction:</h1>
 
 In this code pattern we will help to create a Watson Visual Recognition Image training app that leverages the IoT Platform. 
